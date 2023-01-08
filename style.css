@@ -1,0 +1,17 @@
+#chordInput input {
+    font-size: 50px;
+    width: 80px;
+    margin: 45px;
+    text-align: center;
+}
+
+#applyChanges {
+    font-size: 30px;
+
+}
+
+#chordsDisplays {
+    display: inline-flex;
+}
+
+#chordsDisplays div { margin: 20px; }

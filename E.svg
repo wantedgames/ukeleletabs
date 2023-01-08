@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="102" height="140" viewBox="0 0 102 140">
+  <g>
+    <g>
+      <line stroke-width="5" stroke="#222" stroke-linecap="round" x1="21" x2="87" y1="13.5" y2="13.5" class="nut"/>
+      <line stroke-width="2" stroke="#222" stroke-linecap="round" x1="21" x2="87" y1="44.033289531318445" y2="44.033289531318445" class="fret"/>
+      <line stroke-width="2" stroke="#222" stroke-linecap="round" x1="21" x2="87" y1="70.66491458607096" y2="70.66491458607096" class="fret"/>
+      <line stroke-width="2" stroke="#222" stroke-linecap="round" x1="21" x2="87" y1="95.96495838808586" y2="95.96495838808586" class="fret"/>
+      <line stroke-width="2" stroke="#222" stroke-linecap="round" x1="21" x2="87" y1="120.0" y2="120.0" class="fret"/>
+      <line stroke-width="2" stroke="#222" x1="21" x2="21" y1="16" y2="125" class="string"/>
+      <line stroke-width="2" stroke="#222" x1="43" x2="43" y1="16" y2="125" class="string"/>
+      <line stroke-width="2" stroke="#222" x1="65" x2="65" y1="16" y2="125" class="string"/>
+      <line stroke-width="2" stroke="#222" x1="87" x2="87" y1="16" y2="125" class="string"/>
+      <circle fill="#000" r="9" cx="21" cy="107.98247919404292" class="dot"/>
+      <circle fill="#000" r="9" cx="43" cy="107.98247919404292" class="dot"/>
+      <circle fill="#000" r="9" cx="65" cy="107.98247919404292" class="dot"/>
+      <circle fill="#000" r="9" cx="87" cy="57.349102058694704" class="dot"/>
+      <text text-anchor="middle" fill="#fff" font-weight="bold" font-size="12" font-family="lucida grande" x="21" y="111.98247919404292" class="text-in-dot">2</text>
+      <text text-anchor="middle" fill="#fff" font-weight="bold" font-size="12" font-family="lucida grande" x="43" y="111.98247919404292" class="text-in-dot">3</text>
+      <text text-anchor="middle" fill="#fff" font-weight="bold" font-size="12" font-family="lucida grande" x="65" y="111.98247919404292" class="text-in-dot">4</text>
+      <text text-anchor="middle" fill="#fff" font-weight="bold" font-size="12" font-family="lucida grande" x="87" y="61.349102058694704" class="text-in-dot">1</text>
+      <text text-anchor="middle" fill="#000" font-weight="normal" font-size="9" font-family="sans-serif" x="21" y="138.5" class="text-at-bottom">5</text>
+      <text text-anchor="middle" fill="#000" font-weight="normal" font-size="9" font-family="sans-serif" x="43" y="138.5" class="text-at-bottom">1</text>
+      <text text-anchor="middle" fill="#000" font-weight="normal" font-size="9" font-family="sans-serif" x="65" y="138.5" class="text-at-bottom">3</text>
+      <text text-anchor="middle" fill="#000" font-weight="normal" font-size="9" font-family="sans-serif" x="87" y="138.5" class="text-at-bottom">5</text>
+    </g>
+  </g>
+</svg>
